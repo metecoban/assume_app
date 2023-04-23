@@ -6,7 +6,7 @@ Assume App is an open source mobile application where you can manage your plans 
 
 The application is currently only published in the google play store.
 
-<img src = "assets/icons/google-play.png" height="16" width="16"> [**Google Play Store**](https://sites.google.com/view/assumeapp)
+<img src = "assets/icons/google-play.png" height="16" width="16"> [**Google Play Store**](https://play.google.com/store/apps/details?id=com.metecoban.assume)
 
 <img src = "assets/icons/assume-icon.png" height="16" width="16"> [**Official Website**](https://sites.google.com/view/assumeapp)
 
