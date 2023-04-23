@@ -1,0 +1,252 @@
+{
+    "@@locale": "en",
+
+
+    "@_AUTH": {},
+    "@_FORGOT_PASSWORD": {},
+    "forgotPasswordTitle" : "Reset your password",
+    "forgotPasswordSubTitle" : "Enter your email to reset your password",
+    "email" : "Email",
+    "sendCode" : "Send Code",
+    "alreadySendCode" : "Have you already sent the code?",
+
+
+    "@_LOGIN": {},
+    "loginTitle" : "Welcome Back",
+    "loginSubTitle" : "Login to your account",
+    "password" : "Password",
+    "forgotPassword" : "Forgot your password?",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dontHaveAccount" : "Don't have an account?",
+    "google" : "Google",
+    "or" : "OR",
+
+
+    "@_NEW_PASSWORD": {},
+    "newPasswordTitle" : "Create new password",
+    "newPasswordSubTitle" : "Keep your account safe",
+    "newPassword" : "New Password",
+    "confirmPassword" : "Confirm Password",
+    "passwordBlankError" : "Password cannot be left blank",
+    "passwordMatchError" : "Passwords don't match",
+    "resetPassword" : "Reset Password",
+    "passwordRules" : "Password rules",
+    "ok" : "Ok",
+    "allPasswordRules" : "At least 1 digit \nAt least 1 lowercase letter \nAt least 1 uppercase letter \nAt least 1 special character like . or *\nAt least 8 characters long",
+    
+    
+    "@_OTP": {},
+    "otpTitle" : "One Time Password",
+    "otpSubTitle" : "Enter OTP code to reset",
+    "verify": "Verify",
+
+
+    "@_SIGN_IN": {},
+    "waitSendAgain": "Wait 5 minutes to send code again.",
+    "passwordChangedSuccesfully": "Password changed successfully.",
+
+
+    "@_SIGN_UP": {},
+    "pleaseSignIn" : "Please sign in!",
+    "signUpSubTitle" : "Create your new account",
+    "fullName" : "Full Name",
+    "alreadyHaveAccount" : "Already have you an account?",
+
+
+    "@_DONE": {},
+    "plans": "Plans",
+    "weekly": "Weekly",
+    "archive": "Archive",
+    "noMission": "No missions for this day",
+    "done": "Done",
+
+
+    "@_HOME": {},
+    "plan": "Plan",
+    "run": "Run",
+    "done": "Done",
+    "profile": "Profile",
+
+    
+    "@_ONBOARDING": {},
+    "onboardingAlertTitle":   "Are you sure you want to continue without creating the account?",
+    "onboardingAlertContent":   "You can also register while using the app.",
+    "continueAnonymous":  "Or Continue as Anonymous",
+    "next":  "Next",
+    "skip":  "Skip",
+    "planOnboarding":  "Create your daily plan and stay organized.",
+    "runOnboarding":  "You can stop or complete a task anytime.",
+    "doneOnboarding":  "Get things done and achieve your goals.",
+    "loginOnboarding":  "Sign in to save your progress and settings.",
+
+
+
+    "@_PERMISSION": {},
+    "notificationPermission":  "Allow notifications to remind you of your important tasks throughout the day.",
+    "allowNotification":  "Allow Notification",
+    "later":  "Later",
+
+
+    "@_PLAN": {},
+    "@_CREATE": {},
+    "edit":  "Edit",
+    "create":  "Create",
+    "title":  "Title",
+    "description":  "Description",
+    "date":  "Date",
+    "dateCantEmpty":  "Date can't be empty",
+    "time":  "Time",
+    "timeCantEmpty":  "Time can't be empty",
+    "priority":  "Priority",
+    "priorityCantEmpty":  "Priority can't be empty",
+    "categoryCantEmpty":  "Category can't be empty",
+    "add":  "Add",
+    "planCategories":  "Categories appear here",
+
+
+    "@_CATEGORY_WRAP": {},
+    "deleteCategory":  "Do you want to delete this category?",
+    "editCategory":  "Do you want to edit this category?",
+
+
+    "@_ERROR": {},
+    "error":  "Error",
+
+
+    "@_FILTER": {},
+    "monthly":  "Monthly",
+    "filter":  "Filter",
+    
+
+    "@_PLAN_WIDGETS": {},
+    "showFilterPart":  "You can use this part to filter",
+    "showPlansPart":  "The plans you have made will appear here",
+    "showCreatePart":  "Click here to create a plan",
+    "plans":  "Plans",
+    "plan":  "Plan",
+
+
+    "@_PROFILE": {},
+    "@_APP_SETTINGS": {},
+    "appSettings":  "App Settings",
+    "language":  "Language",
+    "save":  "Save",
+    "notification":  "Notification",
+    "changeNotification":  "You can change app permissions by going to settings.",
+    "goSettings":  "Go settings",
+    "mainColor":  "Main Color",
+    "theme":  "Theme",
+    "chooseColor":  "Choose your color",
+    "change":  "Change",
+
+
+    "@_ARCHIVE": {},
+    "archives":  "Archives",
+    "unarchive":  "Unarchive",
+    "noArchive":  "You haven't added any mission in the archive",
+    "archiveMessage":  "Quests added to the archive are not evaluated in statistics",
+  
+
+    "@_STATISTIC": {},
+    "statistics":  "Statistics",
+    "categories":  "Categories",
+    "worksDays":  "Works - Days",
+    "timeSpentCat":  "Time Spent(Hours) - Categories",
+    "noStatistics":  "You did not complete a task this month",
+   
+
+    "@_USER_SETTINGS": {},
+    "userSettings":  "User Settings",
+    "changePassword":  "Change Password",
+    "anonymousUser":  "Anonymous User",
+    "cantChangePassword":  "You can't change password.",
+    "deleteAccount":  "Delete my account",
+    "deleteAlertTitle":  "Account Deletion Warning",
+    "deleteAlertContent":  "This action will permanently delete your account and cannot be undone. All your data will be erased. \n\nAre you sure?",
+    "delete":  "Delete",
+
+    
+    "@_STAR": {},
+    "starAlertTitle":  "Continuity:",
+    "day":  "day",
+    "days":  "days",
+    "starAlertContent":  "When you complete at least one task every day, your strike score on your profile increases. \n\nIf you fail to complete a task even for one day, your strike score resets back to zero and starts again.",
+    "share":  "Share",
+    "shareDialogFront":  "I would like to share with you the achievement that I have accomplished through the use of Assume App. \nFor the past",
+    "shareDialogEnd":  "days, I have been continuously completing my tasks without any interruptions. \n\nYou can access Assume App by clicking on this link: https://sites.google.com/view/assumeapp.",
+    
+
+    "@_PROFILE_WIDGETS": {},
+    "privacy":  "Privacy",
+    "logOut":  "Log out",
+    "anonymous":  "Anonymous",
+    "logOutAlertTitle":  "Are you sure you want to log out?",
+    "approve":  "Approve",
+    "logOutAlertContent":  "Caution: If you are an anonymous user, your data will be lost.",
+    "privacyLink":  "https://sites.google.com/view/assumeapp/privacy",
+    "privacyLinkError":  "Could not launch",
+
+
+    "@_RUN": {},
+    "stop":  "Stop",
+    "resume":  "Resume",
+
+
+    "@_WIDGETS": {},
+    "@_CARD": {},
+    "dayUpper": "Day",
+    "hour":  "Hour",
+    "min":  "Min",
+    "sec":  "Sec",
+    "startTime":  "Start Time",
+    "endTime":  "End Time",
+    "timeSpent": "Time Spent",
+    "updateTime":  "Updated Time",
+    "notUpdated":  "Not Updated",
+    "cancel":  "Cancel",
+
+
+    "@_VALIDATORS": {},
+    "emailEmptyVal": "Email address cannot be left blank",
+    "emailVal": "Please enter a valid email address",
+    "passwordEmptyVal": "Password cannot be left blank",
+    "passwordRuleVal": "Your password must be at least 8 characters",
+    "passwordVal": "Your password not valid",
+    "nameEmptyVal": "Full name cannot be left blank",
+    "nameRuleVal": "Write your full name corectly",
+    "defaultEmptyVal": "cannot be left blank",
+    "defaultEmptyValFront": "must be at least",
+    "defaultEmptyValFront2": "must be at most",
+    "defaultEmptyValEnd": "characters",
+    
+
+   
+    "@_ERROR_MESSAGES": {},
+    "@_LOGIN": {},
+    "emailOrPasswordWrong": "Email or password is wrong",
+    "userNotFound": "User not found",
+    "anErrorOccured": "An error occurred",
+    "successfullyLoggedIn": "Successfully logged in",
+    
+
+    "@_REGISTER": {},
+
+    
+    "@_RESET_PASSWORD": {},
+    "codeIsCorrect": "Code is correct",
+    "codeNotCorrect": "Code is not correct",
+    "emailNotFound": "Email not found",
+    "passwordsNotSame": "Passwords are not same",
+    "passwordChangedSuccessfully": "Password changed successfully",
+    "codeSentEmailSuccessfully": "Code sent to email successfully",
+    "errorResetPassword": "An error occured while trying to send password reset email",
+    
+
+    "@_MISSION": {},
+    "assumeMissionTime": "Assume: Mission Time",
+    "missionTitle": "Title:",
+    "successfully": "Successfully:",
+    "missionNotFound": "Missions not found:"
+}
+

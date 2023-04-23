@@ -1,0 +1,251 @@
+{
+    "@@locale": "tr",
+
+    
+    "@_AUTH": {},
+    "@_FORGOT_PASSWORD": {},
+    "forgotPasswordTitle" : "Parolanızı sıfırlayın",
+    "forgotPasswordSubTitle" : "Şifrenizi sıfırlamak için e-postanızı girin.",
+    "email" : "E-posta",
+    "sendCode" : "Kod gönder",
+    "alreadySendCode" : "Kodu zaten gönderdiniz mi?",
+
+
+    "@_LOGIN": {},
+    "loginTitle" : "Tekrar Hoşgeldiniz",
+    "loginSubTitle" : "Hesabınıza giriş yapın",
+    "password" : "Parola",
+    "forgotPassword" : "Parolanızı mı unuttunuz?",
+    "signIn": "Oturum Aç",
+    "signUp": "Kaydol",
+    "dontHaveAccount" : "Hesabınız yok mu?",
+    "google" : "Google",
+    "or" : "VEYA",
+
+
+    "@_NEW_PASSWORD": {},
+    "newPasswordTitle" : "Yeni Parola Oluştur",
+    "newPasswordSubTitle" : "Hesabınızı güvende tutun",
+    "newPassword" : "Yeni Parola",
+    "confirmPassword" : "Parolayı Onayla",
+    "passwordBlankError" : "Parola boş bırakılamaz",
+    "passwordMatchError" : "Parolalar eşleşmiyor",
+    "resetPassword" : "Parolayı Sıfırla",
+    "passwordRules" : "Parola Kuralları",
+    "ok" : "Tamam",
+    "allPasswordRules" : "En az 1 sayı içermeli \nEn az 1 küçük harf içermeli \nEn az 1 büyük harf içermeli \nEn az bir özel karakter içermeli (örneğin . veya *)\nEn az 8 karakter uzunluğunda olmalı",
+
+
+    "@_OTP": {},
+    "otpTitle" : "Tek Seferlik Şifre",
+    "otpSubTitle" : "Sıfırlamak için OTP kodunu girin",
+    "verify": "Doğrula",
+
+
+    "@_SIGN_IN": {},
+    "waitSendAgain": "Kodu tekrar göndermek için 5 dakika bekleyin.",
+    "passwordChangedSuccesfully": "Parola başarıyla değiştirildi.",
+
+
+    "@_SIGN_UP": {},
+    "pleaseSignIn" : "Lütfen oturum açın!",
+    "signUpSubTitle" : "Yeni hesabınızı oluşturun",
+    "fullName" : "Ad Soyad",
+    "alreadyHaveAccount" : "Zaten bir hesabınız var mı?",
+
+    
+    "@_DONE": {},
+    "plans": "Planlar",
+    "weekly": "Haftalık",
+    "archive": "Arşiv",
+    "noMission": "Bu gün için görev yok",
+    "done": "Tamamlandı",
+
+
+    "@_HOME": {},
+    "plan": "Planla",
+    "run": "Çalıştır",
+    "done": "Tamamlandı",
+    "profile": "Profil",
+
+    
+    "@_ONBOARDING": {},
+    "onboardingAlertTitle":   "Hesap oluşturmadan devam etmek istediğinizden emin misiniz?",
+    "onboardingAlertContent":   "Uygulama kullanımı sırasında da kaydolabilirsiniz.",
+    "continueAnonymous":  "Veya Anonim Olarak Devam Et",
+    "next":  "İleri",
+    "skip":  "Atla",
+    "planOnboarding": "Günlük planınızı oluşturun ve düzenli kalın.",
+    "runOnboarding": "Bir görevi istediğiniz zaman durdurabilir veya tamamlayabilirsiniz.",
+    "doneOnboarding": "İşleri halledin ve hedeflerinize ulaşın.",
+    "loginOnboarding": "İlerlemenizi ve ayarlarınızı kaydetmek için giriş yapın.",
+
+
+    "@_PERMISSION": {},
+    "notificationPermission":  "Bildirimlerin size gün boyunca önemli görevlerinizi hatırlatmasına izin verin.",
+    "allowNotification":  "Bildirimlere izin ver",
+    "later":  "Daha sonra",
+
+
+    "@_PLAN": {},
+    "@_CREATE": {},
+    "edit":  "Düzenle",
+    "create":  "Oluştur",
+    "title":  "Başlık",
+    "description":  "Açıklama",
+    "date":  "Tarih",
+    "dateCantEmpty":  "Tarih boş olamaz",
+    "time":  "Zaman",
+    "timeCantEmpty":  "Zaman boş olamaz",
+    "priority":  "Öncelik",
+    "priorityCantEmpty":  "Öncelik boş olamaz",
+    "categoryCantEmpty":  "Kategori boş olamaz",
+    "add":  "Ekle",
+    "planCategories":  "Kategoriler burada görünür",
+
+
+    "@_CATEGORY_WRAP": {},
+    "deleteCategory":  "Bu kategoriyi silmek istiyor musunuz?",
+    "editCategory":  "Bu kategoriyi düzenlemek istiyor musunuz?",
+
+    
+    "@_ERROR": {},
+    "error":  "Hata",
+
+
+    "@_FILTER": {},
+    "monthly":  "Aylık",
+    "filter":  "Filtre",
+    
+
+    "@_PLAN_WIDGETS": {},
+    "showFilterPart":  "Filtreleme yapmak için bu kısmı kullanabilirsiniz",
+    "showPlansPart":  "Yaptığınız planlar burada görüntülenecektir",
+    "showCreatePart":  "Bir plan oluşturmak için tıklayın",
+    "plans":  "Planlar",
+    "plan":  "Planla",
+
+
+    "@_PROFILE": {},
+    "@_APP_SETTINGS": {},
+    "appSettings":  "Uygulama Ayarları",
+    "language":  "Dil",
+    "save":  "Kaydet",
+    "notification":  "Bildirimler",
+    "changeNotification":  "Uygulama izinlerini ayarlar kısmından değiştirebilirsiniz.",
+    "goSettings":  "Ayarlar'a git",
+    "mainColor":  "Ana Renk",
+    "theme":  "Tema",
+    "chooseColor":  "Renk seçiniz",
+    "change":  "Değiştir",
+
+
+    "@_ARCHIVE": {},
+    "archives":  "Arşivler",
+    "unarchive":  "Arşivden çıkar",
+    "noArchive":  "Arşive herhangi bir görev eklemediniz",
+    "archiveMessage":  "Arşive eklenen görevler istatistiklerde değerlendirilmez",
+
+
+    "@_STATISTIC": {},
+    "statistics":  "İstatistikler",
+    "categories":  "Kategoriler",
+    "worksDays":  "Çalışma - Günler",
+    "timeSpentCat":  "Harcanan Zaman (Saat) - Kategoriler",
+    "noStatistics":  "Bu ay bir görevi tamamlamadınız",
+
+
+    "@_USER_SETTINGS": {},
+    "userSettings":  "Kullanıcı Ayarları",
+    "changePassword":  "Şifre Değiştir",
+    "anonymousUser":  "Anonim Kullanıcı",
+    "cantChangePassword":  "Şifrenizi değiştiremezsiniz.",
+    "deleteAccount":  "Hesabımı sil",
+    "deleteAlertTitle":  "Hesap Silme Uyarısı",
+    "deleteAlertContent":  "Bu işlem hesabınızı kalıcı olarak siler ve geri alınamaz. Tüm verileriniz silinecektir. \n\nEmin misiniz?",
+    "delete":  "Sil",
+
+
+    "@_STAR": {},
+    "starAlertTitle":  "Süreklilik:",
+    "day":  "gün",
+    "days":  "günler",
+    "starAlertContent":  "Her gün en az bir görev tamamladığınızda, profilinizdeki başarı puanınız artar. \n\nBir gün bile görev tamamlayamazsanız, başarı puanınız sıfırlanır ve tekrar başlar.",
+    "share":  "Paylaş",
+    "shareDialogFront":  "Assume uygulamasını kullanarak elde ettiğim başarıyı sizinle paylaşmak istiyorum. Son ",
+    "shareDialogEnd":  "gündür aralıksız olarak görevlerimi tamamlıyorum. \n\nAssume uygulamasına bu bağlantıya tıklayarak erişebilirsiniz: https://sites.google.com/view/assumeapp.",
+
+
+    "@_PROFILE_WIDGETS": {},
+    "privacy":  "Gizlilik",
+    "logOut":  "Çıkış yap",
+    "anonymous":  "Anonim",
+    "logOutAlertTitle":  "Çıkış yapmak istediğinize emin misiniz?",
+    "approve":  "Onayla",
+    "logOutAlertContent":  "Dikkat: Eğer anonim bir kullanıcıysanız, verileriniz kaybolacaktır.",
+    "privacyLink":  "https://sites.google.com/view/assumeapp/privacy",
+    "privacyLinkError":  "Bağlantı açılamadı",
+
+
+    "@_RUN": {},
+    "stop":  "Dur",
+    "resume":  "Devam Et",
+
+    
+    "@_WIDGETS": {},
+    "@_CARD": {},
+    "dayUpper": "Gün",
+    "hour": "Saat",
+    "min": "Dakika",
+    "sec": "Saniye",
+    "startTime": "Başlangıç Saati",
+    "endTime": "Bitiş Saati",
+    "timeSpent": "Harcanan Zaman",
+    "updateTime": "Güncellenen Saat",
+    "notUpdated": "Güncellenmedi",
+    "cancel":  "İptal",
+  
+
+    
+    "@_VALIDATORS": {},
+    "emailEmptyVal": "E-posta adresi boş bırakılamaz",
+    "emailVal": "Lütfen geçerli bir e-posta adresi girin",
+    "passwordEmptyVal": "Parola boş bırakılamaz",
+    "passwordRuleVal": "Parolanız en az 8 karakter olmalıdır",
+    "passwordVal": "Parolanız geçersiz",
+    "nameEmptyVal": "Tam ad boş bırakılamaz",
+    "nameRuleVal": "Tam adınızı doğru şekilde yazın",
+    "defaultEmptyVal": "boş bırakılamaz",
+    "defaultEmptyValFront": "en az",
+    "defaultEmptyValFront2": "en fazla",
+    "defaultEmptyValEnd": "karakter olmalıdır",
+
+    
+    "@_ERROR_MESSAGES": {},
+    "@_LOGIN": {},
+    "emailOrPasswordWrong": "E-posta veya şifre yanlış",
+    "userNotFound": "Kullanıcı bulunamadı",
+    "anErrorOccured": "Bir hata oluştu",
+    "successfullyLoggedIn": "Başarıyla giriş yapıldı",
+    
+
+    "@_REGISTER": {},
+
+    
+    "@_RESET_PASSWORD": {},
+    "codeIsCorrect": "Kod doğru",
+    "codeNotCorrect": "Kod yanlış",
+    "emailNotFound": "E-posta bulunamadı",
+    "passwordsNotSame": "Şifreler eşleşmiyor",
+    "passwordChangedSuccessfully": "Şifre başarıyla değiştirildi",
+    "codeSentEmailSuccessfully": "Kod e-posta ile başarıyla gönderildi",
+    "errorResetPassword": "Şifre sıfırlama e-postası gönderilirken bir hata oluştu",
+
+
+    "@_MISSION": {},
+    "assumeMissionTime": "Assume: Görev Zamanı",
+    "missionTitle": "Başlık:",
+    "successfully": "Başarılı bir şekilde:",
+    "missionNotFound": "Görevler bulunamadı:"
+}
+
